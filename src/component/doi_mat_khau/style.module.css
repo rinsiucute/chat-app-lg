@@ -1,0 +1,21 @@
+.container {
+    width: 350px;
+    
+    background-color: white;
+}
+ 
+.container > form > div {
+    border-bottom: 1px solid rgba(0, 0, 0, .10);
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+}
+.container > form > div > span {
+    width: 150px;
+    color: rgba(0, 0, 0, .40);
+    font-size: 11px;
+}
+.container > form > div > input {
+    padding: 2px 3px;
+}
+ 

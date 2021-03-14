@@ -1,0 +1,15 @@
+*,body,html{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    image-rendering: pixelated;
+    object-fit: cover;
+    user-select: none;
+}
+input{
+    user-select: none;
+}

@@ -1,0 +1,19 @@
+.container {
+    max-width: 350px;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    text-align: left;
+    justify-content: space-between;
+}
+.container div{
+    display: flex;
+}
+.container img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+/* .container {
+    max-width: 350px;
+} */

@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+}
+.banner{
+
+}
+.user{
+    height: 100%;
+    overflow-y: scroll;
+}
+.loi_moi_ket_ban{
+    width: 100%;
+    padding: 10px 15px;
+}
+.loi_moi_ket_ban span {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.config {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.23);
+    
+}
+.config  button {
+    flex-grow: 1;
+    
+}
